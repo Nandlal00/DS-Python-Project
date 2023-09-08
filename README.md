@@ -7,9 +7,6 @@ We have a dataset here taken from the Game of thrones web series. There are mult
 ## 🚀 About Me
 I'm a Data Analyst...
 
-## 🚀 About Me
-I'm a Data Analyst...
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nand-lal-regar-62aa5b1ba?trk=public_profile_browsemap_profile-result-card_result-card_full-click)
 
